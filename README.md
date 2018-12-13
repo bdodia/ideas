@@ -1,1 +1,3 @@
-Ideas for future projects
+# Ideas for future projects
+
+1. Translations SPA
